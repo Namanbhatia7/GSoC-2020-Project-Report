@@ -36,11 +36,45 @@ Uyuni integrates lunrjs Search. Previously, Uyuni search bar display Module name
 - ### White-Spacing and Other Features:  
 White-Spacing is space between Screen elements. White-space is very important feature to get viewer attention. It ensure design is readable, easy to understand and easy to like.
 Margin and padding is added between different UI components like, Paragraphs, Admonition Blocks, Tables, Images etc. Current Site content is made more breathable. Each Section is given sufficient space between them with HR rules to separate them.  
-                  Content Section is also modified and given a new look and follows the section on which User is. Also, Left-nav bar is improved and Current Module is highlighted. Few Bugs were also fixes.  
+
+Content Section is also modified and given a new look and follows the section on which User is. Also, Left-nav bar is improved and Current Module is highlighted. Few Bugs were also fixed.  
                   
 #### Pull Request:  
 
-**Link:** https://github.com/uyuni-project/uyuni-docs/pull/389    
-**Status:** Merged.                    
+**Link:** https://github.com/uyuni-project/uyuni-docs/pull/389 and https://github.com/uyuni-project/uyuni-docs/pull/369     
+**Status:** Merged.  
+
+- ### Error Page:  
+It is realy important to design a good Error page to retain visitor. If Visitor reached the page in error, it should reflect the personality of site. Error page is designed by keeping Uyuni theme in Mind and kept as simple as possible. Also, an error page should load as quickly as possible. To ensure that I used Svg instead of Jpg or Png.  
+
+
+#### Pull Request:  
+
+**Link:** https://github.com/uyuni-project/uyuni-docs/pull/404 (**Fun Fact**: *error-404-page landed on PR #404* :joy:)      
+**Status:** Merged.  
+
+- ### UI macros:  
+Inline buttons and icons were updated.  
+
+#### Pull Request:  
+
+**Link:** https://github.com/uyuni-project/uyuni-docs/pull/443     
+**Status:** Merged  
+
+- ### Language Selection:  
+A feature to select and translate Site in particular language is proposed. A drop-down menu is added in navbar so that visitor can select language from provided options and site get load up in that language. 
+
+#### Pull Request:  
+
+**Link:** https://github.com/uyuni-project/uyuni-docs/pull/418    
+**Status:** Open  
+
+- ### Image blocks and other fixes:  
+Image blocks are designed , margin added when two blocks are encountered simultaneously.
+
+#### Pull Request:  
+
+**Link:** https://github.com/uyuni-project/uyuni-docs/pull/456    
+**Status:** Open  
                   
 
