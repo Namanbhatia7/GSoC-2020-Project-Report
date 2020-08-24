@@ -1,6 +1,6 @@
 # GSoC: Improvement of Uyuni Publishing Theme
 
-**Organization**: openSUSE **(Uyuni)** 
+**Organization**: openSUSE **(Uyuni)**   
 **Mentors**: Joseph Cayouette and Pau Garcia.  
 
 # Description  
