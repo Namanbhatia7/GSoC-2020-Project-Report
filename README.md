@@ -1,7 +1,7 @@
 # GSoC: Improvement of Uyuni Publishing Theme
 
-**Organization**: openSUSE  
-**Mentors**: Joseph Couyette and Pau Garcia.  
+**Organization**: openSUSE **(Uyuni)** 
+**Mentors**: Joseph Cayouette and Pau Garcia.  
 
 # Description  
 Uyuni documentation is based on Antora which generates Site with a default UI features. The Project aimed at **Improving** the Current UI of Uyuni documentation Site and improve **existing features like Admonition blocks, Tables, Adding whitespaces and other UI macros**. It also involved improving **User Experience** by making a **modern** and **classy** UI but at the same time **simple** so that Users Eye easily catch information they are looking for. **It is to ne noted that a Simple layout is the key to keep readers interested.**  
@@ -76,5 +76,13 @@ Image blocks are designed , margin added when two blocks are encountered simulta
 
 **Link:** https://github.com/uyuni-project/uyuni-docs/pull/456    
 **Status:** Open  
+
+# Conclusion 
+Working with Uyuni was a great experience. To implement the knowledge and when the code written by you goes live gives immense pleasure. My summer was fun-filled with lots of learning experiences. It was a great experience to work along with community developers as I got to learn so much from them.  
+
+I would like to thank my mentors for their help in solving my doubts and providing valuable suggestions. A special thanks to Lana Brindley for reviewing my code and designs and helping me.  
+
+I plan to keep contributing to Uyuni even after GSoC ends with whatever knowledge I have, be active on channel and help others. 
+
                   
 
