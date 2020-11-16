@@ -75,7 +75,7 @@ Image blocks are designed , margin added when two blocks are encountered simulta
 #### Pull Request:  
 
 **Link:** https://github.com/uyuni-project/uyuni-docs/pull/456    
-**Status:** Open  
+**Status:** Merged  
 
 # Conclusion 
 Working with Uyuni was a great experience. To implement the knowledge and when the code written by you goes live gives immense pleasure. My summer was fun-filled with lots of learning experiences. It was a great experience to work along with community developers as I got to learn so much from them.  
