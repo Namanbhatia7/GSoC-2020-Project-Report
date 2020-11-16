@@ -67,7 +67,7 @@ A feature to select and translate Site in particular language is proposed. A dro
 #### Pull Request:  
 
 **Link:** https://github.com/uyuni-project/uyuni-docs/pull/418    
-**Status:** Closed  
+**Status:** Merged  
 
 - ### Image blocks and other fixes:  
 Image blocks are designed , margin added when two blocks are encountered simultaneously.
